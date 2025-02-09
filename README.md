@@ -151,6 +151,7 @@ Your wallpaper will now change every hour based on the time of day.
 - Modify time ranges and image filenames in the scripts.
 - Place your images in the specified directory (`~/Pictures/Wallpaper/` or `C:\Users\YOUR_USERNAME\Pictures\Wallpaper\`).
 
-Free to use and modify!
+
+Feel Free to use and modify!
 
 
